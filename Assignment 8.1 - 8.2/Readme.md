@@ -25,3 +25,5 @@ N=2
 user-di=mkUMAR62
 
 <h1>Assignment 8.2 </h1> 
+
+![question 2](https://github.com/Saran-MS/Logic-Building-Through-Java-Programming/blob/master/Assignment%208.1%20-%208.2/Question/Assignment%208.2.png)
