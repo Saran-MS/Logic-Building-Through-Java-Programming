@@ -26,7 +26,7 @@ user-di=mkUMAR62
 
 <h1>Assignment 8.2 </h1> 
 
-![question 2](https://github.com/Saran-MS/Logic-Building-Through-Java-Programming/blob/master/Assignment%208.1%20-%208.2/Question/Assignment%208.2.png)
+![question 2](https://github.com/Saran-MS/Logic-Building-Through-Java-Programming/blob/master/Assignment%208.1%20-%208.3/Question/Assignment%208.2.png)
 
 <h1>Assignment 8.3</h1> 
 
@@ -66,41 +66,41 @@ d)Please ensure that no extra (additional) space characters are embedded within 
 
 Sample Input Output:
 
-Wipro Technologies Bangalore
-0
-orpiWseigolonhceTerolagnaB
+Wipro Technologies Bangalore<br>
+0<br>
+orpiWseigolonhceTerolagnaB<br>
 
 
-Wipro Technologies, Bangalore
-0
-orpiW ,seigolonhceTerolagnaB
+Wipro Technologies, Bangalore<br>
+0<br>
+orpiW ,seigolonhceTerolagnaB<br>
 
 
-Wipro Technologies Bangalore
-1
-OrpiwSeigolonhcetErolagnab
+Wipro Technologies Bangalore<br>
+1<br>
+OrpiwSeigolonhcetErolagnab<br>
 
 
-Wipro Technologies, Bangalore
-1
-Orpiw ,seigolonhceTErolagnab
+Wipro Technologies, Bangalore<br>
+1<br>
+Orpiw ,seigolonhceTErolagnab<br>
 
 
-Wipro Technologies, Bangalore
-2
-ORPIw ,SEIGOLONHCEtEROLAGNAb
+Wipro Technologies, Bangalore<br>
+2<br>
+ORPIw ,SEIGOLONHCEtEROLAGNAb<br>
 
 
-The day is Good and Dry.
-2
-EHt YADSI DOOg DNA .YRd
+The day is Good and Dry.<br>
+2<br>
+EHt YADSI DOOg DNA .YRd<br>
 
 
-Prudential World CUP was held in 1983
-2
-LAITNEDURpDLROwpucSAWDLEHNI 3891
+Prudential World CUP was held in 1983<br>
+2<br>
+LAITNEDURpDLROwpucSAWDLEHNI 3891<br>
 
 
-17%89 was the Code!!
-2
-98%71 SAWEHT !!EDOc
+17%89 was the Code!!<br>
+2<br>
+98%71 SAWEHT !!EDOc<br>
